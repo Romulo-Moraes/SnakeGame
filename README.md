@@ -1,1 +1,1 @@
-A simple application simulating a https://github.com/Romulo-Moraes/SnakeGame.gitSnake Game
+A simple application simulating a Snake Game
