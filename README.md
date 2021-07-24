@@ -1,1 +1,1 @@
-A simple application simulating a Snake Game
+<h1>=-=-=-=-= About Mini-Project =-=-=-=-=</h1>
